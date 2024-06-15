@@ -1,0 +1,57 @@
+.bk{ background-image: url('../images/water.jpeg');}
+.divstyle{ position: absolute; background-color: rgb(255, 245, 232);}
+.headfont{font-family: water; text-align: center  
+}
+.divheading{font-family: water; text-align: center; color: rgb(0, 62, 133); font-size: 130%; letter-spacing: 10px; display: block; margin: auto;
+}
+.tableau{
+    width: 400px;
+    margin-left: auto ;
+    margin-right: auto ;
+    }
+a:visited{color: none;}
+.buy{color: red;}
+.buy:hover{color: yellow; -webkit-text-stroke-color: black; -webkit-text-stroke-width: .4px;}
+.regulartext{font-family: 'Times New Roman', Times, serif; color: rgb(0, 62, 133); font-size: 120%;margin: 10px;line-gap-override: 10px;}
+.header{
+    top: 20px;
+    width: 1000px;
+    height: 100px;
+    left: 340px;
+    margin: auto;
+}
+.gifleft{
+    top: -10px;
+    left: 20px;
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+}
+.gifright{
+    top: -10px;
+    right: 20px;
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+}
+.left{
+    top: 140px;
+    left: 20px;
+    width: 450px;
+    height: 770px;
+}
+.mid{top: 142;
+    height: 770px;
+    top: 140px;
+    left: 490px;
+    right: 490px;
+}
+.right{top: 142;
+    top: 140px;
+    right: 20px;
+    width: 450px;
+    height: 770px;}
+@font-face {
+    font-family: water;
+    src: url(WISHFULWAVES.ttf);
+}
